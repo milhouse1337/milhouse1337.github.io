@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/milhouse1337
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://pascalmeunier.info
+  * I am milhouse1337 (https://keybase.io/milhouse1337) on keybase.
+  * I have a public key ASA1CE94qRRdTp1R9FVRot3_7qvm_JnX1jpMdFSsCsaMKQo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "012035084f78a9145d4e9d51f45551a2ddffeeabe6fc99d7d63a4c7454ac0ac68c290a",
+            "host": "keybase.io",
+            "kid": "012035084f78a9145d4e9d51f45551a2ddffeeabe6fc99d7d63a4c7454ac0ac68c290a",
+            "uid": "5d50509197ca279a2157c579b3d59f19",
+            "username": "milhouse1337"
+        },
+        "service": {
+            "hostname": "pascalmeunier.info",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.22"
+    },
+    "ctime": 1494867770,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1494867723,
+        "hash": "f0c09cc733aa87b0040bf0b2b51e32588b189145d60bd10f45ed7b19cc7a6b88fa19a7ddb1f8b555d8a08828038196be767b9865ef545b3c6b0a6854febc6dc7",
+        "seqno": 1084758
+    },
+    "prev": "d87e55499b7a39c62e6679e9777d6cdda67808c40d1a4cfa0719846e95113b39",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgNQhPeKkUXU6dUfRVUaLd/+6r5vyZ19Y6THRUrArGjCkKp3BheWxvYWTFAv97ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMzUwODRmNzhhOTE0NWQ0ZTlkNTFmNDU1NTFhMmRkZmZlZWFiZTZmYzk5ZDdkNjNhNGM3NDU0YWMwYWM2OGMyOTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMzUwODRmNzhhOTE0NWQ0ZTlkNTFmNDU1NTFhMmRkZmZlZWFiZTZmYzk5ZDdkNjNhNGM3NDU0YWMwYWM2OGMyOTBhIiwidWlkIjoiNWQ1MDUwOTE5N2NhMjc5YTIxNTdjNTc5YjNkNTlmMTkiLCJ1c2VybmFtZSI6Im1pbGhvdXNlMTMzNyJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoicGFzY2FsbWV1bmllci5pbmZvIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMjIifSwiY3RpbWUiOjE0OTQ4Njc3NzAsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ5NDg2NzcyMywiaGFzaCI6ImYwYzA5Y2M3MzNhYTg3YjAwNDBiZjBiMmI1MWUzMjU4OGIxODkxNDVkNjBiZDEwZjQ1ZWQ3YjE5Y2M3YTZiODhmYTE5YTdkZGIxZjhiNTU1ZDhhMDg4MjgwMzgxOTZiZTc2N2I5ODY1ZWY1NDViM2M2YjBhNjg1NGZlYmM2ZGM3Iiwic2Vxbm8iOjEwODQ3NTh9LCJwcmV2IjoiZDg3ZTU1NDk5YjdhMzljNjJlNjY3OWU5Nzc3ZDZjZGRhNjc4MDhjNDBkMWE0Y2ZhMDcxOTg0NmU5NTExM2IzOSIsInNlcW5vIjo4LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQBgiHZZuhZpIE7SGVoW+HONQC1EluVfJMinYEjRqDrh1Bgr5u4OpymyoQKWMT6uN3QTeamHRAQw3u8xnseUnRA2oc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCBIqN1mLri0OIfTqTChdhbpIdskWJCoW0H0Y/Mwfl1y+aN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/milhouse1337
+
+==================================================================

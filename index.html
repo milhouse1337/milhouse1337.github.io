@@ -2,31 +2,120 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>This is a test</title>
-	<meta name="description" content="Test page hosted on GitHub.">
+	<title>Pascal Meunier</title>
 
-	<link href="//maxcdn.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" rel="stylesheet">
-	<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
-	<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+	<link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
+	<link href="//unpkg.com/remarkdown.css/dist/remarkdown.css" rel="stylesheet">
+	
+	<!-- <script src="//code.jquery.com/jquery-1.11.1.min.js"></script> -->
+	<!-- <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script> -->
 
 	<style type="text/css">
-		
-		.well h1 {
-			margin-top:0;
+
+		@media (min-width: 900px) {
+			html {
+				background-color: #eee;
+			}
 		}
-		.well h1 span {
-			font-size:28px;
+
+		body {
+			max-width: 660px;
+			padding: 30px;
+			margin: 0 auto;
+			color: #202020;
+			background-color: white;
 		}
+
+		@media (min-width: 900px) {
+			body {
+				margin: 30px auto;
+				padding: 40px 80px;
+				border: 1px solid #ddd;
+				background-color: white;
+				box-shadow: 3px 3px 3px -2px #ddd;
+			}
+		}
+
+		.remarkdown ::before,
+		.remarkdown ::after {
+			color: rgba(0, 0, 0, 0.3);
+		}
+
+		.remarkdown h1 { font-size: 1.8em; margin-top: 42px; }
+		.remarkdown h2 { font-size: 1.5em; margin-top: 1.25em; }
+		.remarkdown h3 { font-size: 1.2em; }
+
+		.remarkdown pre { margin-left: 0; }
 
 	</style>
 
 </head>
-<body>
+<body class="remarkdown">
+	
+	<div class="container-fluid">
 
-<div class="well">
-	<h1><span class="glyphicon glyphicon-ok-circle"></span> Test Area</h1>
-	<p>This is a test Website hosted on GitHub.</p>
-</div>
+		<div class="row">
+			<div class="col-md-12">
+				
+				<h1>Hello World!</h1>
+
+				<h2>My name is <strong>Pascal Meunier</strong></h2>
+
+				<p>I'm a passionate Web Developer and I currently code for both <a href="https://trinary.ca" target="_blank">Trinary</a> and <a href="https://www.hivetek.com" target="_blank">HiveTek</a> in Montréal, Québec (Canada).</p>
+
+				<h2>My favorite stack</h2>
+
+				<h3>Languages</h3>
+
+				<ul>
+					<li>PHP</li>
+					<li>JavaScript and Node.js</li>
+					<li>HTML and CSS</li>
+					<li>Bash</li>
+				</ul>
+
+				<h3>Databases</h3>
+
+				<ul>
+					<li>MySQL (and MariaDB)</li>
+					<li>Memcached</li>
+					<li>Redis</li>
+				</ul>
+
+				<h3>OS</h3>
+
+				<ul>
+					<li>Linux (production)</li>
+					<li>MacOS (development)</li>
+				</ul>
+
+				<h3>Tools</h3>
+
+				<ul>
+					<li>Apache</li>
+					<li>Nginx</li>
+					<li>Vagrant</li>
+					<li>Laravel</li>
+					<li>Git</li>
+				</ul>
+
+				<h2>Links</h2>
+				
+				<ul>
+					<li><a href="https://github.com/milhouse1337" target="_blank">GitHub</a></li>
+					<li><a href="https://keybase.io/milhouse1337" target="_blank">Keybase</a></li>
+					<li><a href="https://twitter.com/milhouse1337" target="_blank">Twitter</a></li>
+					<li><a href="https://ca.linkedin.com/in/pascalmeunier1337" target="_blank">LinkedIn</a></li>
+				</ul>
+
+				<h2>License</h2>
+
+				<p>This page is licensed under <a href="https://en.wikipedia.org/wiki/WTFPL" target="_blank">WTFPL</a>. Also the Markdown style is provided by the excellent <a href="https://fvsch.github.io/remarkdown/" target="_blank">ReMarkdown</a> project licensed under MIT.</p>
+
+			</div>
+		</div>
+
+	</div>
 
 </body>
 </html>
