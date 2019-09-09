@@ -1,0 +1,61 @@
+
+@media (min-width: 900px) {
+	html {
+		background-color: #eee;
+		background-image: url('//lh4.googleusercontent.com/-kF2iAb7SZbk/UtazMJdpJxI/AAAAAAAAAYw/-ST4EqOJpq8/s0/wallpaper-10222.jpg');
+		background-attachment: fixed;
+	}
+}
+
+body {
+	max-width: 660px;
+	padding: 30px;
+	margin: 0 auto;
+	color: #202020;
+	background-color: white;
+}
+
+@media (min-width: 900px) {
+	body {
+		margin: 30px auto;
+		padding: 40px 80px;
+		border: 1px solid #ddd;
+		background-color: white;
+		/*box-shadow: 3px 3px 3px -2px #ddd;*/
+
+	}
+}
+
+a {
+  color: #666;
+  text-decoration: none;
+}
+
+a:hover {
+  border-bottom: 1px solid;
+}
+
+a:focus, a:active {
+  color: white;
+  background-color: #666;
+}
+
+.remarkdown ::before,
+.remarkdown ::after { color: rgba(0, 0, 0, 0.3); }
+.remarkdown h1 { font-size: 1.8em; margin-top: 42px; margin-bottom: 0; }
+.remarkdown h2 { font-size: 1.5em; margin-top: 1.25em; margin-bottom: 0; }
+.remarkdown h3 { font-size: 1.2em; }
+.remarkdown pre { margin-left: 0; }
+.remarkdown code { color: #999; }
+
+@media (min-width: 992px) {
+	.img-face {
+		width: 144px !important;
+	} 
+}
+
+.img-face {
+	padding-left: 12px;
+	width: 84px;
+} 
+
